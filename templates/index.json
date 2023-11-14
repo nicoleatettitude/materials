@@ -91,15 +91,22 @@
         "template--21485991067931__788543fb-a6df-4a42-aedf-659a0d5be194-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Next Generation <\/p><p>Through Regeneration<\/p>"
+            "content": "<h1>Next Generation <\/h1><h1>Through Regeneration<\/h1>"
+          }
+        },
+        "9ae3ae9f-b8a2-4086-87f3-3ce8eea38fba": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>The cotton textile industry is in an unsustainable cycle that is extractive and degenerative —stripping more from the earth than it gives back.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--21485991067931__788543fb-a6df-4a42-aedf-659a0d5be194-richtext-1"
+        "template--21485991067931__788543fb-a6df-4a42-aedf-659a0d5be194-richtext-1",
+        "9ae3ae9f-b8a2-4086-87f3-3ce8eea38fba"
       ],
       "custom_css": [
-        "generation {line-height: -50px;}"
+        "h2 {line-height: -50px;}"
       ],
       "settings": {
         "class": "generation",
