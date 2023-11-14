@@ -1,1 +1,414 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"b4cc1720-1312-4fce-99e8-ececb74c1ed2":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Home-Banner-DESKTOP_14.png","mobile_image":"shopify:\/\/shop_images\/HOME_HERO_MOB_LINEN_9.png","content_max_width":840,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"","title":"","heading_tag":"h0","button_text":"","button_link":"shopify:\/\/collections\/bedding","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":0,"background":"","background_gradient":""}},"slide-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Home-Banner-DESKTOP_3_1.png","mobile_image":"shopify:\/\/shop_images\/HOME_HERO_MOB_OASIS_1_1.png","content_max_width":780,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"","title":"","heading_tag":"h0","button_text":"","button_link":"shopify:\/\/collections\/bedding","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":0,"background":"","background_gradient":""}}},"block_order":["b4cc1720-1312-4fce-99e8-ececb74c1ed2","slide-1"],"settings":{"full_width":true,"allow_transparent_header":false,"image_size":"auto","controls_type":"numbers","transition_type":"fade_with_text","autoplay":true,"cycle_speed":6,"background":"#f2f2f2","background_gradient":"linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"}},"featured-collection":{"type":"featured-collection","settings":{"collection":"best-sellers","products":[],"full_width":false,"stack_products":false,"show_progress_bar":false,"products_count":6,"products_per_row_mobile":"2","products_per_row_desktop":4,"subheading":"","title":"Bestsellers","content":"","link_url":"shopify:\/\/collections\/best-sellers","link_text":"View all","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","product_card_background":"","product_card_text_color":"","hide_price":true}},"0bd0a4c7-7916-406a-8163-aaa34b38bfcc":{"type":"text-with-icons","blocks":{"template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-1":{"type":"item","settings":{"icon":"picto-coupon","custom_icon":"shopify:\/\/shop_images\/Seal_2.png","mobile_icon_width":120,"icon_width":120,"icon_background_type":"none","icon_background":"","icon_color":"","title":"","content":""}},"template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-2":{"type":"item","settings":{"icon":"picto-coupon","custom_icon":"shopify:\/\/shop_images\/Icon_4.png","mobile_icon_width":52,"icon_width":56,"icon_background_type":"none","icon_background":"rgba(0,0,0,0)","icon_color":"","title":"","content":"<p><strong>SCIENTIFICALLY PROVEN <\/strong><\/p><p><strong>TO HELP YOU REST<\/strong><\/p>"}},"template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-3":{"type":"item","settings":{"icon":"picto-coupon","custom_icon":"shopify:\/\/shop_images\/Icon_2.png","mobile_icon_width":52,"icon_width":52,"icon_background_type":"none","icon_background":"","icon_color":"","title":"","content":"<p><strong>NATURALLY COOLING <\/strong><\/p><p><strong>& BREATHABLE<\/strong><\/p>"}},"98cd5a7f-96a3-4cf1-a761-a2f80013ca1b":{"type":"item","settings":{"icon":"picto-coupon","custom_icon":"shopify:\/\/shop_images\/Icon_1.png","mobile_icon_width":52,"icon_width":80,"icon_background_type":"none","icon_background":"","icon_color":"","title":"","content":"<p><strong>DERIVED FROM RENEWABLE <\/strong><\/p><p><strong>PLANT RESOURCES<\/strong><\/p>"}}},"block_order":["template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-1","template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-2","template--16163989323935__0bd0a4c7-7916-406a-8163-aaa34b38bfcc-item-3","98cd5a7f-96a3-4cf1-a761-a2f80013ca1b"],"custom_css":["@media screen and (min-width: 800px) {p {line-height: 80%; margin-bottom: -15px; }}","@media all and (min-width: 0px) and (max-width: 799px) {p {font-size: 18px; line-height: 80%; margin-bottom: -8px; }}"],"settings":{"full_width":true,"stack_on_mobile":true,"title":"","heading_tag":"h5","text_alignment":"center","icon_spacing":"large","background":"#e7ebe2","background_gradient":"","text_color":"#a6ac9e"}},"93bf31c5-205c-48ec-84c9-c3f69b5616b6":{"type":"rich-text","blocks":{"template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-heading-1":{"type":"heading","settings":{"text":"RETHINK. RENEW. REWARD YOU.","heading_tag":"h1","text_color":"","gradient":""}},"template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-richtext-1":{"type":"richtext","settings":{"content":"<p>Our decadently dreamy sheets, towels, and loungewear collections wrap you in revitalization.<\/p>"}},"4c481a40-5ce5-4648-91f3-46db6553c0d2":{"type":"button","settings":{"style":"fill","size":"lg","text":"Shop All","url":"shopify:\/\/collections\/shop-all","background":"","text_color":""}}},"block_order":["template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-heading-1","template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-richtext-1","4c481a40-5ce5-4648-91f3-46db6553c0d2"],"disabled":true,"settings":{"class":"","full_width":true,"content_width":"small","text_position":"start","background":"","background_gradient":"","text_color":"","right_image":false}},"8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea":{"type":"LP-rich-text","blocks":{"template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-heading-1":{"type":"heading","settings":{"text":"RETHINK. RENEW. REWARD YOU.","heading_tag":"h1","text_color":"","gradient":""}},"template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-richtext-1":{"type":"richtext","settings":{"content":"<p>Our decadently dreamy sheets, towels, and loungewear collections wrap you in revitalization.<\/p>","style":"fill","size":"xl","text":"Shop All","url":"shopify:\/\/collections\/all","background":"","text_color":""}}},"block_order":["template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-heading-1","template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-richtext-1"],"settings":{"class":"collection_list_header","padding_top":36,"padding_bottom":36,"full_width":true,"content_width":"large","text_position":"start","background":"","background_gradient":"","text_color":""}},"collection-list":{"type":"collection-list","blocks":{"collection-1":{"type":"collection","settings":{"collection":"sheet-sets","image":"shopify:\/\/shop_images\/Collection_-_Bedding_2.png","subheading":"","title":"‎","url":"shopify:\/\/collections\/bedding","heading_tag":"h2","text_position":"place-self-end text-end","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"collection-2":{"type":"collection","settings":{"collection":"shop-all","image":"shopify:\/\/shop_images\/Collection_-_Bath_2.png","subheading":"","title":"‎","url":"shopify:\/\/collections\/bath","heading_tag":"h2","text_position":"place-self-end text-end","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"collection-3":{"type":"collection","settings":{"collection":"shop-all","image":"shopify:\/\/shop_images\/Collection_-_Loungewear_1.png","subheading":"","title":"‎","url":"shopify:\/\/collections\/loungewear","heading_tag":"h6","text_position":"place-self-end text-end","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}}},"block_order":["collection-1","collection-2","collection-3"],"settings":{"class":"","full_width":false,"stack_collections":false,"collections_per_row":3,"show_progress_bar":false,"subheading":"","title":"","content":"","link_url":"shopify:\/\/products\/bamboo-lyocell-sheet-set","link_text":"Shop All","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":""}},"7f3b2053-f144-4b8e-ac81-a9e0c132d588":{"type":"scrolling-text","settings":{"full_width":true,"text":"RECHARGE.ㅤREVIVE.ㅤRISE AND THRIVE.","text_size":"medium","text_style":"fill","scrolling_mode":"auto","scrolling_speed":10,"background":"#e7ebe2","background_gradient":"","text_color":"","text_gradient":""}},"804415aa-d6b0-45be-a426-46f883be2278":{"type":"blog-posts","blocks":{"template--16163989323935__804415aa-d6b0-45be-a426-46f883be2278-blog-1":{"type":"blog","settings":{"blog":"news","posts_count":2,"stack_items":false}}},"block_order":["template--16163989323935__804415aa-d6b0-45be-a426-46f883be2278-blog-1"],"disabled":true,"settings":{"full_width":false,"show_excerpt":true,"show_date":false,"show_author":false,"show_comments_count":false,"show_category":false,"subheading":"","title":"","content":"","link_url":"","link_text":"","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":""}},"13d27dbf-322c-4a67-9307-5f717f9b6528":{"type":"testimonials","blocks":{"template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-1":{"type":"testimonial","settings":{"round_avatar":true,"show_rating":true,"rating":5,"author":"Paris B.","title":"","content":"<p>By far, the greatest sheets I’ve ever slept in. Literally feels like a cloud. It’s actually difficult for me to get out of bed because it’s so comfortable. I heat up in the night really bad and I have not had that issue in these sheets. <\/p>"}},"template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-2":{"type":"testimonial","settings":{"round_avatar":true,"show_rating":true,"rating":5,"author":"Jamie W.","title":"","content":"<p>I have had the best sleep of my life since sleeping on ettitude. I have also noticed my hair and skin look healthier since the fabric is hypoallergenic and free of toxic chemicals. I could not imagine going back to cotton. <\/p>"}},"template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-3":{"type":"testimonial","settings":{"round_avatar":true,"show_rating":true,"rating":5,"author":"Debbie P.","title":"","content":"<p>My husband and I both have slept better. Less waking during the night feeling hot. We've even turned our thermostat up and saved on energy because we are not too hot!<\/p>"}},"17b7b566-40e2-424a-a497-9dbfb72f60d7":{"type":"testimonial","settings":{"round_avatar":true,"show_rating":true,"rating":5,"author":"Holly M.","title":"","content":"<p>Oh my god!!!! Best sheets I’ve ever had ever- I’m so obsessed with them I make people who come over come upstairs to touch them to see what I mean. So silky and unbelievably smooth and soft and such a gorgeous colour.<\/p>"}},"e4f94203-b26a-4b5a-83d9-ad4bb3d586e6":{"type":"testimonial","settings":{"round_avatar":true,"show_rating":true,"rating":5,"author":"Scott B.","title":"","content":"<p>We bought these for our three year old with the hope that the sheets would be so comfortable that she would rather sleep in her bed than ours, it worked! The sheets really are nice and we're all getting a little more sleep.<\/p>"}}},"block_order":["template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-1","template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-2","template--16163989323935__13d27dbf-322c-4a67-9307-5f717f9b6528-testimonial-3","17b7b566-40e2-424a-a497-9dbfb72f60d7","e4f94203-b26a-4b5a-83d9-ad4bb3d586e6"],"settings":{"full_width":false,"stack_testimonials":false,"subheading":"","title":"20,000+ 5-star <i>reviews<\/i>","content":"","link_url":"","link_text":"","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","testimonial_card_background":"","testimonial_card_text_color":""}},"744bd597-ee5f-4976-b070-08c80815920c":{"type":"logo-list","blocks":{"template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-2":{"type":"logo","settings":{"logo_width":300,"link":""}},"template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-3":{"type":"logo","settings":{"logo_width":300,"link":""}},"template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-4":{"type":"logo","settings":{"logo_width":300,"link":""}},"2b979629-4042-4aa7-b302-36f94bdc03ac":{"type":"logo","settings":{"logo_width":300,"link":""}},"4d64c999-ff64-44b3-9c79-3adb71ec9663":{"type":"logo","settings":{"logo_width":120,"link":""}}},"block_order":["template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-2","template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-3","template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-4","2b979629-4042-4aa7-b302-36f94bdc03ac","4d64c999-ff64-44b3-9c79-3adb71ec9663"],"disabled":true,"settings":{"full_width":true,"stack_mobile":false,"title":"","content":"<h1>AS SEEN IN (AND SLEPT ON)<\/h1>","text_alignment":"start","items_per_row":5,"background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","logo_item_background":"","logo_item_border":""}},"d587d4aa-ca4f-43c3-9bbc-74dd413be1f5":{"type":"multi-column","blocks":{"template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-1":{"type":"item","settings":{"column_size":"3","title":"","heading_tag":"h4","content":"","link_url":"","link_text":"","link_style":"link"}},"template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-2":{"type":"item","settings":{"column_size":"3","title":"","heading_tag":"h4","content":"","link_url":"","link_text":"","link_style":"link"}},"template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-3":{"type":"item","settings":{"column_size":"3","title":"","heading_tag":"h4","content":"","link_url":"","link_text":"","link_style":"link"}}},"block_order":["template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-1","template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-2","template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-3"],"disabled":true,"settings":{"full_width":true,"stack_on_mobile":false,"gap":"medium","text_alignment":"start","subheading":"","title":"","content":"","background":"","background_gradient":"","text_color":""}},"4e8835d1-651d-44f2-be4e-a44691434b67":{"type":"slideshow","blocks":{"template--16163989323935__4e8835d1-651d-44f2-be4e-a44691434b67-image-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Section_08__IG_Feed_3.png","mobile_image":"shopify:\/\/shop_images\/Section_08__IG_Feed_4.png","content_max_width":780,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"","title":"","heading_tag":"h0","button_text":"","button_link":"https:\/\/www.instagram.com\/ettitudestore\/","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":0,"background":"","background_gradient":""}}},"block_order":["template--16163989323935__4e8835d1-651d-44f2-be4e-a44691434b67-image-1"],"settings":{"full_width":false,"allow_transparent_header":false,"image_size":"auto","controls_type":"dots","transition_type":"fade_with_text","autoplay":false,"cycle_speed":6,"background":"#f2f2f2","background_gradient":""}}},"order":["slideshow","featured-collection","0bd0a4c7-7916-406a-8163-aaa34b38bfcc","93bf31c5-205c-48ec-84c9-c3f69b5616b6","8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea","collection-list","7f3b2053-f144-4b8e-ac81-a9e0c132d588","804415aa-d6b0-45be-a426-46f883be2278","13d27dbf-322c-4a67-9307-5f717f9b6528","744bd597-ee5f-4976-b070-08c80815920c","d587d4aa-ca4f-43c3-9bbc-74dd413be1f5","4e8835d1-651d-44f2-be4e-a44691434b67"]}
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "b4cc1720-1312-4fce-99e8-ececb74c1ed2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "content_max_width": 840,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "shopify:\/\/collections\/bedding",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "shopify:\/\/collections\/bedding",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "b4cc1720-1312-4fce-99e8-ececb74c1ed2",
+        "slide-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "93bf31c5-205c-48ec-84c9-c3f69b5616b6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "RETHINK. RENEW. REWARD YOU.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Our decadently dreamy sheets, towels, and loungewear collections wrap you in revitalization.<\/p>"
+          }
+        },
+        "4c481a40-5ce5-4648-91f3-46db6553c0d2": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Shop All",
+            "url": "shopify:\/\/collections\/shop-all",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-heading-1",
+        "template--16163989323935__93bf31c5-205c-48ec-84c9-c3f69b5616b6-richtext-1",
+        "4c481a40-5ce5-4648-91f3-46db6553c0d2"
+      ],
+      "disabled": true,
+      "settings": {
+        "class": "",
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "right_image": false
+      }
+    },
+    "8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea": {
+      "type": "LP-rich-text",
+      "blocks": {
+        "template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "RETHINK. RENEW. REWARD YOU.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Our decadently dreamy sheets, towels, and loungewear collections wrap you in revitalization.<\/p>",
+            "style": "fill",
+            "size": "xl",
+            "text": "Shop All",
+            "url": "shopify:\/\/collections\/all",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-heading-1",
+        "template--16165534728351__8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea-richtext-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "class": "collection_list_header",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "sheet-sets",
+            "image": "shopify:\/\/shop_images\/Collection_-_Bedding_2.png",
+            "subheading": "",
+            "title": "‎",
+            "url": "shopify:\/\/collections\/bedding",
+            "heading_tag": "h2",
+            "text_position": "place-self-end text-end",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "shop-all",
+            "image": "shopify:\/\/shop_images\/Collection_-_Bath_2.png",
+            "subheading": "",
+            "title": "‎",
+            "url": "shopify:\/\/collections\/bath",
+            "heading_tag": "h2",
+            "text_position": "place-self-end text-end",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "shop-all",
+            "image": "shopify:\/\/shop_images\/Collection_-_Loungewear_1.png",
+            "subheading": "",
+            "title": "‎",
+            "url": "shopify:\/\/collections\/loungewear",
+            "heading_tag": "h6",
+            "text_position": "place-self-end text-end",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection-2",
+        "collection-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "class": "",
+        "full_width": false,
+        "stack_collections": false,
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "shopify:\/\/products\/bamboo-lyocell-sheet-set",
+        "link_text": "Shop All",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "7f3b2053-f144-4b8e-ac81-a9e0c132d588": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "text": "RECHARGE.ㅤREVIVE.ㅤRISE AND THRIVE.",
+        "text_size": "medium",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#e7ebe2",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "744bd597-ee5f-4976-b070-08c80815920c": {
+      "type": "logo-list",
+      "blocks": {
+        "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-2": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-3": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-4": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "2b979629-4042-4aa7-b302-36f94bdc03ac": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "4d64c999-ff64-44b3-9c79-3adb71ec9663": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-2",
+        "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-3",
+        "template--16163989323935__744bd597-ee5f-4976-b070-08c80815920c-logo-4",
+        "2b979629-4042-4aa7-b302-36f94bdc03ac",
+        "4d64c999-ff64-44b3-9c79-3adb71ec9663"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "",
+        "content": "<h1>AS SEEN IN (AND SLEPT ON)<\/h1>",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "d587d4aa-ca4f-43c3-9bbc-74dd413be1f5": {
+      "type": "multi-column",
+      "blocks": {
+        "template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-1": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-2": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-3": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-1",
+        "template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-2",
+        "template--16163989323935__d587d4aa-ca4f-43c3-9bbc-74dd413be1f5-item-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "4e8835d1-651d-44f2-be4e-a44691434b67": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16163989323935__4e8835d1-651d-44f2-be4e-a44691434b67-image-1": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/ettitudestore\/",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16163989323935__4e8835d1-651d-44f2-be4e-a44691434b67-image-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "93bf31c5-205c-48ec-84c9-c3f69b5616b6",
+    "8b0e3a10-e180-4ac3-8200-a7d8e5dd0eea",
+    "collection-list",
+    "7f3b2053-f144-4b8e-ac81-a9e0c132d588",
+    "744bd597-ee5f-4976-b070-08c80815920c",
+    "d587d4aa-ca4f-43c3-9bbc-74dd413be1f5",
+    "4e8835d1-651d-44f2-be4e-a44691434b67"
+  ]
+}
