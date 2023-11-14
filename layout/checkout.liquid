@@ -12,7 +12,9 @@
 
     {{ checkout_stylesheets }}
     {{ checkout_scripts }}
-  </head>
+  
+  {% include "globale-checkout-css" %}
+</head>
   <body>
     {{ skip_to_content_link }}
 
@@ -50,5 +52,7 @@
     </div>
 
     {{ tracking_code }}
-  </body>
+  
+  {% include "globale-checkout-js" %}
+</body>
 </html>
